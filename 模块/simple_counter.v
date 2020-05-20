@@ -1,3 +1,4 @@
+//十进制计时器模块
 //simplified counter
 //num_out = 0~9
 module s_counter (clk,sys_rst_n,num_out,ci);
