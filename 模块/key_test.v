@@ -1,3 +1,4 @@
+//按键检测模块
 //key_test mode
 //if a key has been press for 10ms,it thinks it is enable
 module key_test(clk,sys_rst_n,key_in,key_en); //input before,output after
