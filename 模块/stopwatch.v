@@ -1,4 +1,4 @@
-//last order
+//将各模块组装
 
 module stopwatch (clk_in,ps_in,rst_in,sys_rst_n_in);
 //declare input
